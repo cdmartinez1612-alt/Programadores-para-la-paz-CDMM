@@ -1,21 +1,37 @@
-Reflexión - Verificación de Accesibilidad
+Checklist de accesibilidad – Formulario Participa
 
-Durante esta actividad desarrollé un formulario accesible en HTML y CSS.
+Nombre del estudiante:cristian david martinez murillo
+Fecha:3/5/2026
+Nombre de la rama:cdmartinez1612
 
-Apliqué buenas prácticas como:
-- Uso correcto de etiquetas HTML semánticas.
-- Uso de etiquetas <label> para cada campo del formulario.
-- Inclusión de textos claros para los usuarios.
-- Estructura organizada del contenido.
+1. ¿El formulario tiene un título claro?
+Respuesta:si, porque el formulario participa indica claramente su proposito
 
-También revisé aspectos de accesibilidad como:
-- Que el formulario sea entendible.
-- Que los campos tengan descripciones claras.
-- Que el diseño sea legible.
+2. ¿El formulario explica para qué se usará la información?
+Respuesta:Sí, porque menciona que la información será utilizada para la participación comunitaria.
 
-Aspectos a mejorar:
-- Agregar validaciones más avanzadas.
-- Mejorar el contraste de colores.
-- Incluir soporte para lectores de pantalla.
+3. ¿Cada campo tiene un label o etiqueta visible?
+Respuesta:Sí, cada campo tiene una etiqueta clara como nombre, mensaje y contacto.
 
-En general, la actividad me ayudó a entender la importancia de hacer páginas accesibles para todos los usuarios.
+4. ¿El lenguaje usado es sencillo y comprensible?
+Respuesta:Sí, el lenguaje es claro y fácil de entender para cualquier usuario.
+
+
+5. ¿El formulario evita pedir datos innecesarios?
+Respuesta:Sí, solo solicita información básica y relevante.
+
+6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
+Respuesta:Sí, el campo de texto es amplio y permite escribir cómodamente.
+
+
+7. ¿El formulario incluye una casilla o mensaje de consentimiento?
+Respuesta:Sí, incluye una opción para aceptar el uso de la información.
+
+8. ¿El botón de envío tiene un texto claro?
+Respuesta: Sí, el botón dice Enviar participación, lo cual es claro.
+
+9. ¿La página se puede leer con facilidad?
+Respuesta:Sí, porque el texto tiene buen tamaño, contraste adecuado y está bien organizado, lo que facilita la lectura
+
+10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
+Respuesta:Mejoraría el contraste de colores, agregaría ayudas visuales o mensajes de ejemplo en los campos y optimizaría el diseño para dispositivos móviles
