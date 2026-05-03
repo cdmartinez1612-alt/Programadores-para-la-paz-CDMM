@@ -1,1 +1,21 @@
+Reflexión - Verificación de Accesibilidad
 
+Durante esta actividad desarrollé un formulario accesible en HTML y CSS.
+
+Apliqué buenas prácticas como:
+- Uso correcto de etiquetas HTML semánticas.
+- Uso de etiquetas <label> para cada campo del formulario.
+- Inclusión de textos claros para los usuarios.
+- Estructura organizada del contenido.
+
+También revisé aspectos de accesibilidad como:
+- Que el formulario sea entendible.
+- Que los campos tengan descripciones claras.
+- Que el diseño sea legible.
+
+Aspectos a mejorar:
+- Agregar validaciones más avanzadas.
+- Mejorar el contraste de colores.
+- Incluir soporte para lectores de pantalla.
+
+En general, la actividad me ayudó a entender la importancia de hacer páginas accesibles para todos los usuarios.
